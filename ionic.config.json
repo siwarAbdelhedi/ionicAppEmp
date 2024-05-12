@@ -1,0 +1,7 @@
+{
+  "name": "ionicAppEmp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
